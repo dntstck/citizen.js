@@ -1,1 +1,46 @@
-<-- code -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RTS Game UI</title>
+    <style rel="stylesheet" href="citizen.css"></style>
+</head>
+<body>
+    <div id="top-bar">
+        <div class="resource">Gold: 1000</div>
+        <div class="resource">Wood: 500</div>
+        <div class="resource">Food: 300</div>
+        <div class="resource">
+            <form>
+                <label for="speed">Speed: </label>
+                <select id="speed" name="speed">
+                    <option value="slow">Slow</option>
+                    <option value="normal">Normal</option>
+                    <option value="fast">Fast</option>
+                </select>
+            </form>
+        </div>
+    </div>
+    <div id="map">
+        <div>Map Area</div>
+    </div>
+    <div id="command-panel">
+        <div class="command">Build</div>
+        <div class="command">Attack</div>
+        <div class="command">Defend</div>
+        <div class="dropdown">
+            <form>
+                <label for="unit">Create Unit: </label>
+                <select id="unit" name="unit">
+                    <option value="soldier">Soldier</option>
+                    <option value="archer">Archer</option>
+                    <option value="knight">Knight</option>
+                </select>
+                <button type="submit">Create</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    }
+
+#top-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    }
+
+.resource {
+    margin: 0 10px;
+    }
+
+#map {
+    flex: 1;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+#command-panel {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #444;
+    color: white;
+}
+
+.command {
+    margin: 0 10px;
+    padding: 10px;
+    background-color: #555;
+    border-radius: 5px;
+    cursor: pointer;
+        }
+
+.command:hover {
+    background-color: #666;
+        }
+
+.dropdown {
+    margin: 0 10px;
+}
