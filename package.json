@@ -1,0 +1,23 @@
+{
+  "name": "citizen",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">    <a href=\"https://github.com/dntstck?tab=repositories\" target=\"_blank\"><img alt=\"Citizen.js\" src=\"https://img.shields.io/badge/Citizen.js-orange?&logo=Javascript&logoColor=black\"></a></div>",
+  "main": "race.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dntstck/citizen.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dntstck/citizen.js/issues"
+  },
+  "homepage": "https://github.com/dntstck/citizen.js#readme",
+  "devDependencies": {
+    "jasmine": "^5.5.0"
+  }
+}
