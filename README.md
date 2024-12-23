@@ -1,8 +1,8 @@
-<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Citizen.js" src="https://img.shields.io/badge/Citizen.js-orange?&logo=Javascript&logoColor=black"></a></div>
+<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Citizen.js" src="https://img.shields.io/badge/Citizen.js-orange?&logo=Javascript&logoColor=black"></a></div>
 
-<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Under Construction" src="https://img.shields.io/badge/build-passing-brightgreen"></a></div>
+<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Under Construction" src="https://img.shields.io/badge/build-passing-brightgreen"></a></div>
 
-<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Under Construction" src="https://img.shields.io/badge/powered%20by%20Jasmine-EA4AAA?&logo=jasmine"></a></div>
+<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Under Construction" src="https://img.shields.io/badge/powered%20by%20Jasmine-EA4AAA?&logo=jasmine"></a></div>
 
 <!-- https://img.shields.io/badge/any_text-you_like-blue -->
 
